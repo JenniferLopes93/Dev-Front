@@ -12,7 +12,7 @@ function ativaLetra(elemento){
 const titulo = document.querySelector('.digitando');
 ativaLetra(titulo);
 
-<script>
+
   window.fbAsyncInit = function() {
     FB.init({
       appId      : '{your-app-id}',
@@ -32,4 +32,3 @@ ativaLetra(titulo);
      js.src = "https://connect.facebook.net/en_US/sdk.js";
      fjs.parentNode.insertBefore(js, fjs);
    }(document, 'script', 'facebook-jssdk'));
-</script>
